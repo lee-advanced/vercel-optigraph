@@ -12,7 +12,7 @@ export default async function Page({ params }: any) {
   return (
     <>
       <Head>
-        <title>The City Guide</title>
+        <title>The City Guide By Me</title>
         <meta
           name="description"
           content="next.js based website that consumes that displays information about different cities"
